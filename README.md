@@ -1,2 +1,2 @@
 # AudioFmod
-This c++ project is audio library for games with FMOD.
+This c++ project is audio engine library for games with FMOD.
